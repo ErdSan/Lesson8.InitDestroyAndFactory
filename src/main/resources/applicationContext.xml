@@ -11,6 +11,7 @@
           class="ru.erdyneev.springcourse.ClassicalMusic"
           init-method="doMyInit"
           destroy-method="doMyDestroy"
+          factory-method="getClassicalMusic"
           >
     </bean>
 <!--    <bean id="musicPlayer"
